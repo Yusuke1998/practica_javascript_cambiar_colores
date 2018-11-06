@@ -1,6 +1,4 @@
-// document.getElementById('btn')
-// 		.addEventListener('hacerAlgo');
-
+/*
 // Creanado un array
 var array=['jhonny','jose','perez','martinez'];
 // Añadiendo mas datos al array
@@ -21,3 +19,4 @@ function hacerAlgo(){
 
 // Llamando a la funcion
 hacerAlgo();
+*/
